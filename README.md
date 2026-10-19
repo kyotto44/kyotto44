@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-oscuro.svg">
-  <img src="assets/banner-claro.svg" alt="Santiago Angarita. Estudiante de Ingeniería de Sistemas y Técnico en Sistemas del SENA." width="100%">
-</picture>
+<img src="assets/banner.svg" alt="Santiago Angarita. Estudiante de Ingeniería de Sistemas y Técnico en Sistemas del SENA, junto a capturas de sus proyectos Templvm, MatchPoint y SanRafa." width="100%">
 
 Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, en Tunja, y soy Técnico en Sistemas del SENA. Me gusta construir software que se pueda usar de verdad: aplicaciones de escritorio en Java con su base de datos y sus pruebas, y sitios web rápidos, accesibles y publicados. También trabajo con agentes de IA, incluso varios en paralelo, y reviso todo lo que producen antes de aceptarlo.
 
