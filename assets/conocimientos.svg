@@ -8,56 +8,56 @@
     
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect x="6" y="6" width="1188" height="528" rx="16" fill="#14171c" stroke="#ffffff" stroke-opacity="0.08"/>
-  <text x="42" y="68" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Java y escritorio</text>
-  <rect x="42" y="105" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="112" class="s" font-size="18" font-weight="400" fill="#b9c1cc">JavaFX con FXML y hojas de estilo</text>
-  <rect x="42" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="144" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Capas: MySQL o datos en memoria</text>
-  <rect x="42" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="176" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Records, LocalDate y JUnit 5</text>
-  <text x="42" y="226" class="s" font-size="16" font-weight="400" fill="#8b949e">En SanRafa y Talento humano</text>
-  <text x="438" y="68" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Bases de datos</text>
-  <rect x="438" y="105" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="112" class="s" font-size="18" font-weight="400" fill="#b9c1cc">MySQL con JDBI, SQLite con JDBC</text>
-  <rect x="438" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="144" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Consultas con PreparedStatement</text>
-  <rect x="438" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="176" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Llaves foráneas y transacciones</text>
-  <text x="438" y="226" class="s" font-size="16" font-weight="400" fill="#8b949e">En SanRafa y Talento humano</text>
-  <text x="834" y="68" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Desarrollo web</text>
-  <rect x="834" y="105" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="112" class="s" font-size="18" font-weight="400" fill="#b9c1cc">HTML semántico y CSS moderno</text>
-  <rect x="834" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="144" class="s" font-size="18" font-weight="400" fill="#b9c1cc">JavaScript sin frameworks</text>
-  <rect x="834" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="176" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Tailwind y Bootstrap a medida</text>
-  <text x="834" y="226" class="s" font-size="16" font-weight="400" fill="#8b949e">En los cuatro sitios</text>
-  <text x="42" y="332" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Accesibilidad</text>
-  <rect x="42" y="369" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="376" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Contraste WCAG AA revisado</text>
-  <rect x="42" y="401" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="408" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Todo se usa con el teclado</text>
-  <rect x="42" y="433" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="440" class="s" font-size="18" font-weight="400" fill="#b9c1cc">ARIA y movimiento reducido</text>
-  <text x="42" y="490" class="s" font-size="16" font-weight="400" fill="#8b949e">En PitLane, MatchPoint y landing-cs</text>
-  <text x="438" y="332" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Rendimiento</text>
-  <rect x="438" y="369" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="376" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Imágenes WebP con srcset</text>
-  <rect x="438" y="401" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="408" class="s" font-size="18" font-weight="400" fill="#b9c1cc">PitLane: de 7,1 MB a 0,8 MB</text>
-  <rect x="438" y="433" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="440" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Dependencias sin uso, fuera</text>
-  <text x="438" y="490" class="s" font-size="16" font-weight="400" fill="#8b949e">En los cuatro sitios</text>
-  <text x="834" y="332" class="s" font-size="25" font-weight="700" fill="#f2f4f7">Seguridad</text>
-  <rect x="834" y="369" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="376" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Cabeceras CSP y HTTPS</text>
-  <rect x="834" y="401" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="408" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Contraseñas fuera del código</text>
-  <rect x="834" y="433" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="440" class="s" font-size="18" font-weight="400" fill="#b9c1cc">Sin datos reales en los repos</text>
-  <text x="834" y="490" class="s" font-size="16" font-weight="400" fill="#8b949e">En los sitios y en Talento humano</text>
-  <line x1="402" y1="30" x2="402" y2="510" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="798" y1="30" x2="798" y2="510" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="30" y1="270" x2="1170" y2="270" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="6" y="6" width="1188" height="528" rx="16" fill="#111622" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <text x="42" y="68" class="s" font-size="25" font-weight="700" fill="#f3efe4">Java y escritorio</text>
+  <rect x="42" y="105" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="112" class="s" font-size="18" font-weight="400" fill="#c3cad6">JavaFX con FXML y hojas de estilo</text>
+  <rect x="42" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="144" class="s" font-size="18" font-weight="400" fill="#c3cad6">Capas: MySQL o datos en memoria</text>
+  <rect x="42" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="176" class="s" font-size="18" font-weight="400" fill="#c3cad6">Records, LocalDate y JUnit 5</text>
+  <text x="42" y="226" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En SanRafa y Talento humano</text>
+  <text x="438" y="68" class="s" font-size="25" font-weight="700" fill="#f3efe4">Bases de datos</text>
+  <rect x="438" y="105" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="112" class="s" font-size="18" font-weight="400" fill="#c3cad6">MySQL con JDBI, SQLite con JDBC</text>
+  <rect x="438" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="144" class="s" font-size="18" font-weight="400" fill="#c3cad6">Consultas con PreparedStatement</text>
+  <rect x="438" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="176" class="s" font-size="18" font-weight="400" fill="#c3cad6">Llaves foráneas y transacciones</text>
+  <text x="438" y="226" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En SanRafa y Talento humano</text>
+  <text x="834" y="68" class="s" font-size="25" font-weight="700" fill="#f3efe4">Desarrollo web</text>
+  <rect x="834" y="105" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="112" class="s" font-size="18" font-weight="400" fill="#c3cad6">HTML semántico y CSS moderno</text>
+  <rect x="834" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="144" class="s" font-size="18" font-weight="400" fill="#c3cad6">JavaScript sin frameworks</text>
+  <rect x="834" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="176" class="s" font-size="18" font-weight="400" fill="#c3cad6">Tailwind y Bootstrap a medida</text>
+  <text x="834" y="226" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En los cuatro sitios</text>
+  <text x="42" y="332" class="s" font-size="25" font-weight="700" fill="#f3efe4">Accesibilidad</text>
+  <rect x="42" y="369" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="376" class="s" font-size="18" font-weight="400" fill="#c3cad6">Contraste WCAG AA revisado</text>
+  <rect x="42" y="401" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="408" class="s" font-size="18" font-weight="400" fill="#c3cad6">Todo se usa con el teclado</text>
+  <rect x="42" y="433" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="440" class="s" font-size="18" font-weight="400" fill="#c3cad6">ARIA y movimiento reducido</text>
+  <text x="42" y="490" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En PitLane, MatchPoint y landing-cs</text>
+  <text x="438" y="332" class="s" font-size="25" font-weight="700" fill="#f3efe4">Rendimiento</text>
+  <rect x="438" y="369" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="376" class="s" font-size="18" font-weight="400" fill="#c3cad6">Imágenes WebP con srcset</text>
+  <rect x="438" y="401" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="408" class="s" font-size="18" font-weight="400" fill="#c3cad6">PitLane: de 7,1 MB a 0,8 MB</text>
+  <rect x="438" y="433" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="440" class="s" font-size="18" font-weight="400" fill="#c3cad6">Dependencias sin uso, fuera</text>
+  <text x="438" y="490" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En los cuatro sitios</text>
+  <text x="834" y="332" class="s" font-size="25" font-weight="700" fill="#f3efe4">Seguridad</text>
+  <rect x="834" y="369" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="376" class="s" font-size="18" font-weight="400" fill="#c3cad6">Cabeceras CSP y HTTPS</text>
+  <rect x="834" y="401" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="408" class="s" font-size="18" font-weight="400" fill="#c3cad6">Contraseñas fuera del código</text>
+  <rect x="834" y="433" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="440" class="s" font-size="18" font-weight="400" fill="#c3cad6">Sin datos reales en los repos</text>
+  <text x="834" y="490" class="s" font-size="16" font-weight="400" fill="#8f9ab0">En los sitios y en Talento humano</text>
+  <line x1="402" y1="30" x2="402" y2="510" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="798" y1="30" x2="798" y2="510" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="30" y1="270" x2="1170" y2="270" stroke="#f3efe4" stroke-opacity="0.08"/>
 </svg>

@@ -8,58 +8,58 @@
     
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect x="6" y="6" width="1188" height="548" rx="16" fill="#14171c" stroke="#ffffff" stroke-opacity="0.08"/>
-  <path d="M290 170 C 336 170, 336 84, 384 84" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <path d="M290 170 L 384 170" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <path d="M290 170 C 336 170, 336 256, 384 256" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <path d="M816 84 C 864 84, 864 170, 910 170" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <path d="M816 170 L 910 170" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <path d="M816 256 C 864 256, 864 170, 910 170" fill="none" stroke="#ff6a3d" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" path="M290 170 C 336 170, 336 84, 384 84"/></circle>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="0.5s" repeatCount="indefinite" path="M290 170 L 384 170"/></circle>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="1s" repeatCount="indefinite" path="M290 170 C 336 170, 336 256, 384 256"/></circle>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M816 84 C 864 84, 864 170, 910 170"/></circle>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="1.7s" repeatCount="indefinite" path="M816 170 L 910 170"/></circle>
-  <circle r="4.5" fill="#ffb547"><animateMotion dur="2.4s" begin="2.2s" repeatCount="indefinite" path="M816 256 C 864 256, 864 170, 910 170"/></circle>
-  <rect x="34" y="96" width="256" height="148" rx="14" fill="#1b1f26" stroke="#ffffff" stroke-opacity="0.1"/>
-  <text x="62" y="156" class="s" font-size="30" font-weight="700" fill="#f2f4f7">Planifico</text>
-  <text x="62" y="190" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Divido el trabajo y doy</text>
-  <text x="62" y="214" class="s" font-size="17" font-weight="400" fill="#b9c1cc">contexto y reglas claras.</text>
-  <rect x="384" y="56" width="432" height="56" rx="14" fill="#1f1713" stroke="#ff6a3d" stroke-opacity="0.45"/>
-  <text x="412" y="91" class="s" font-size="19" font-weight="600" fill="#f2f4f7">Agente</text>
-  <text x="790" y="91" class="m" font-size="17" font-weight="400" fill="#ff8a63" text-anchor="end">código</text>
-  <rect x="384" y="142" width="432" height="56" rx="14" fill="#1f1713" stroke="#ff6a3d" stroke-opacity="0.45"/>
-  <text x="412" y="177" class="s" font-size="19" font-weight="600" fill="#f2f4f7">Agente</text>
-  <text x="790" y="177" class="m" font-size="17" font-weight="400" fill="#ff8a63" text-anchor="end">pruebas</text>
-  <rect x="384" y="228" width="432" height="56" rx="14" fill="#1f1713" stroke="#ff6a3d" stroke-opacity="0.45"/>
-  <text x="412" y="263" class="s" font-size="19" font-weight="600" fill="#f2f4f7">Agente</text>
-  <text x="790" y="263" class="m" font-size="17" font-weight="400" fill="#ff8a63" text-anchor="end">revisión</text>
-  <rect x="910" y="96" width="256" height="148" rx="14" fill="#1b1f26" stroke="#ffffff" stroke-opacity="0.1"/>
-  <text x="938" y="156" class="s" font-size="30" font-weight="700" fill="#f2f4f7">Verifico</text>
-  <text x="938" y="190" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Pruebo, reviso y decido</text>
-  <text x="938" y="214" class="s" font-size="17" font-weight="400" fill="#b9c1cc">qué cambio se queda.</text>
-  <line x1="30" y1="330" x2="1170" y2="330" stroke="#ffffff" stroke-opacity="0.08"/>
-  <rect x="36" y="368" width="36" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="36" y="412" class="s" font-size="22" font-weight="700" fill="#f2f4f7">Dar contexto</text>
-  <text x="36" y="446" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Explico qué se busca, qué</text>
-  <text x="36" y="472" class="s" font-size="17" font-weight="400" fill="#b9c1cc">se puede tocar y cómo se</text>
-  <text x="36" y="498" class="s" font-size="17" font-weight="400" fill="#b9c1cc">comprueba el resultado.</text>
-  <rect x="333" y="368" width="36" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="333" y="412" class="s" font-size="22" font-weight="700" fill="#f2f4f7">Dividir el trabajo</text>
-  <text x="333" y="446" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Reparto tareas</text>
-  <text x="333" y="472" class="s" font-size="17" font-weight="400" fill="#b9c1cc">independientes para que</text>
-  <text x="333" y="498" class="s" font-size="17" font-weight="400" fill="#b9c1cc">avancen en paralelo.</text>
-  <rect x="630" y="368" width="36" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="630" y="412" class="s" font-size="22" font-weight="700" fill="#f2f4f7">Verificar todo</text>
-  <text x="630" y="446" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Leo, pruebo y entiendo</text>
-  <text x="630" y="472" class="s" font-size="17" font-weight="400" fill="#b9c1cc">cada cambio. Si no lo</text>
-  <text x="630" y="498" class="s" font-size="17" font-weight="400" fill="#b9c1cc">entiendo, no entra.</text>
-  <rect x="927" y="368" width="36" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="927" y="412" class="s" font-size="22" font-weight="700" fill="#f2f4f7">Cuidar lo publicado</text>
-  <text x="927" y="446" class="s" font-size="17" font-weight="400" fill="#b9c1cc">Ni credenciales ni datos</text>
-  <text x="927" y="472" class="s" font-size="17" font-weight="400" fill="#b9c1cc">personales en público, ni</text>
-  <text x="927" y="498" class="s" font-size="17" font-weight="400" fill="#b9c1cc">código sin revisar.</text>
-  <line x1="303" y1="360" x2="303" y2="526" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="600" y1="360" x2="600" y2="526" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="897" y1="360" x2="897" y2="526" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="6" y="6" width="1188" height="548" rx="16" fill="#111622" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <path d="M290 170 C 336 170, 336 84, 384 84" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <path d="M290 170 L 384 170" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <path d="M290 170 C 336 170, 336 256, 384 256" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <path d="M816 84 C 864 84, 864 170, 910 170" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <path d="M816 170 L 910 170" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <path d="M816 256 C 864 256, 864 170, 910 170" fill="none" stroke="#2f55f0" stroke-width="2" stroke-opacity="0.45" stroke-dasharray="6 8"/>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" path="M290 170 C 336 170, 336 84, 384 84"/></circle>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="0.5s" repeatCount="indefinite" path="M290 170 L 384 170"/></circle>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="1s" repeatCount="indefinite" path="M290 170 C 336 170, 336 256, 384 256"/></circle>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M816 84 C 864 84, 864 170, 910 170"/></circle>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="1.7s" repeatCount="indefinite" path="M816 170 L 910 170"/></circle>
+  <circle r="4.5" fill="#8fd0ff"><animateMotion dur="2.4s" begin="2.2s" repeatCount="indefinite" path="M816 256 C 864 256, 864 170, 910 170"/></circle>
+  <rect x="34" y="96" width="256" height="148" rx="14" fill="#18203a" stroke="#f3efe4" stroke-opacity="0.1"/>
+  <text x="62" y="156" class="s" font-size="30" font-weight="700" fill="#f3efe4">Planifico</text>
+  <text x="62" y="190" class="s" font-size="17" font-weight="400" fill="#c3cad6">Divido el trabajo y doy</text>
+  <text x="62" y="214" class="s" font-size="17" font-weight="400" fill="#c3cad6">contexto y reglas claras.</text>
+  <rect x="384" y="56" width="432" height="56" rx="14" fill="#151d33" stroke="#2f55f0" stroke-opacity="0.45"/>
+  <text x="412" y="91" class="s" font-size="19" font-weight="600" fill="#f3efe4">Agente</text>
+  <text x="790" y="91" class="m" font-size="17" font-weight="400" fill="#8fb0ff" text-anchor="end">código</text>
+  <rect x="384" y="142" width="432" height="56" rx="14" fill="#151d33" stroke="#2f55f0" stroke-opacity="0.45"/>
+  <text x="412" y="177" class="s" font-size="19" font-weight="600" fill="#f3efe4">Agente</text>
+  <text x="790" y="177" class="m" font-size="17" font-weight="400" fill="#8fb0ff" text-anchor="end">pruebas</text>
+  <rect x="384" y="228" width="432" height="56" rx="14" fill="#151d33" stroke="#2f55f0" stroke-opacity="0.45"/>
+  <text x="412" y="263" class="s" font-size="19" font-weight="600" fill="#f3efe4">Agente</text>
+  <text x="790" y="263" class="m" font-size="17" font-weight="400" fill="#8fb0ff" text-anchor="end">revisión</text>
+  <rect x="910" y="96" width="256" height="148" rx="14" fill="#18203a" stroke="#f3efe4" stroke-opacity="0.1"/>
+  <text x="938" y="156" class="s" font-size="30" font-weight="700" fill="#f3efe4">Verifico</text>
+  <text x="938" y="190" class="s" font-size="17" font-weight="400" fill="#c3cad6">Pruebo, reviso y decido</text>
+  <text x="938" y="214" class="s" font-size="17" font-weight="400" fill="#c3cad6">qué cambio se queda.</text>
+  <line x1="30" y1="330" x2="1170" y2="330" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <rect x="36" y="368" width="36" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="36" y="412" class="s" font-size="22" font-weight="700" fill="#f3efe4">Dar contexto</text>
+  <text x="36" y="446" class="s" font-size="17" font-weight="400" fill="#c3cad6">Explico qué se busca, qué</text>
+  <text x="36" y="472" class="s" font-size="17" font-weight="400" fill="#c3cad6">se puede tocar y cómo se</text>
+  <text x="36" y="498" class="s" font-size="17" font-weight="400" fill="#c3cad6">comprueba el resultado.</text>
+  <rect x="333" y="368" width="36" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="333" y="412" class="s" font-size="22" font-weight="700" fill="#f3efe4">Dividir el trabajo</text>
+  <text x="333" y="446" class="s" font-size="17" font-weight="400" fill="#c3cad6">Reparto tareas</text>
+  <text x="333" y="472" class="s" font-size="17" font-weight="400" fill="#c3cad6">independientes para que</text>
+  <text x="333" y="498" class="s" font-size="17" font-weight="400" fill="#c3cad6">avancen en paralelo.</text>
+  <rect x="630" y="368" width="36" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="630" y="412" class="s" font-size="22" font-weight="700" fill="#f3efe4">Verificar todo</text>
+  <text x="630" y="446" class="s" font-size="17" font-weight="400" fill="#c3cad6">Leo, pruebo y entiendo</text>
+  <text x="630" y="472" class="s" font-size="17" font-weight="400" fill="#c3cad6">cada cambio. Si no lo</text>
+  <text x="630" y="498" class="s" font-size="17" font-weight="400" fill="#c3cad6">entiendo, no entra.</text>
+  <rect x="927" y="368" width="36" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="927" y="412" class="s" font-size="22" font-weight="700" fill="#f3efe4">Cuidar lo publicado</text>
+  <text x="927" y="446" class="s" font-size="17" font-weight="400" fill="#c3cad6">Ni credenciales ni datos</text>
+  <text x="927" y="472" class="s" font-size="17" font-weight="400" fill="#c3cad6">personales en público, ni</text>
+  <text x="927" y="498" class="s" font-size="17" font-weight="400" fill="#c3cad6">código sin revisar.</text>
+  <line x1="303" y1="360" x2="303" y2="526" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="600" y1="360" x2="600" y2="526" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="897" y1="360" x2="897" y2="526" stroke="#f3efe4" stroke-opacity="0.08"/>
 </svg>

@@ -8,39 +8,39 @@
     
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <rect x="6" y="6" width="1188" height="408" rx="16" fill="#14171c" stroke="#ffffff" stroke-opacity="0.08"/>
-  <rect x="42" y="44" width="44" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="42" y="98" class="s" font-size="27" font-weight="700" fill="#f2f4f7">Sitios web y landings</text>
-  <rect x="42" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="144" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Rápidos, accesibles y seguros</text>
-  <rect x="42" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="176" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Pensados primero para celular</text>
-  <rect x="42" y="201" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="62" y="208" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Publicados y listos para usar</text>
-  <text x="42" y="270" class="s" font-size="16" font-weight="400" fill="#8b949e">Ejemplos: Templvm, PitLane, MatchPoint</text>
-  <rect x="438" y="44" width="44" height="5" rx="2.5" fill="#ffb547"/>
-  <text x="438" y="98" class="s" font-size="27" font-weight="700" fill="#f2f4f7">Apps de escritorio</text>
-  <rect x="438" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="144" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Java con base de datos</text>
-  <rect x="438" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="176" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Formularios que validan</text>
-  <rect x="438" y="201" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="458" y="208" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Pruebas automáticas incluidas</text>
-  <text x="438" y="270" class="s" font-size="16" font-weight="400" fill="#8b949e">Ejemplos: SanRafa, Talento humano</text>
-  <rect x="834" y="44" width="44" height="5" rx="2.5" fill="#ff6a3d"/>
-  <text x="834" y="98" class="s" font-size="27" font-weight="700" fill="#f2f4f7">Mejorar tu sitio</text>
-  <rect x="834" y="137" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="144" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Más rápido y liviano</text>
-  <rect x="834" y="169" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="176" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Usable con teclado y lector</text>
-  <rect x="834" y="201" width="7" height="7" rx="1.5" fill="#ff6a3d"/>
-  <text x="854" y="208" class="s" font-size="19" font-weight="400" fill="#b9c1cc">Errores y seguridad al día</text>
-  <text x="834" y="270" class="s" font-size="16" font-weight="400" fill="#8b949e">Ejemplo: landing-cs, de 2,1 MB a 112 KB</text>
-  <line x1="402" y1="36" x2="402" y2="290" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="798" y1="36" x2="798" y2="290" stroke="#ffffff" stroke-opacity="0.08"/>
-  <line x1="6" y1="316" x2="1194" y2="316" stroke="#ffffff" stroke-opacity="0.08"/>
-  <text x="42" y="372" class="s" font-size="20" font-weight="500" fill="#f2f4f7">Trabajo de forma remota, desde cualquier lugar. Cuéntame qué necesitas.</text>
-  <rect x="928" y="340" width="232" height="52" rx="26" fill="#ff6a3d"/>
-  <text x="960" y="373" class="s" font-size="20" font-weight="700" fill="#16110e">Escríbeme</text>
-  <path d="M1071.2 366 h16 M1081.2 360 l6 6 l-6 6" fill="none" stroke="#16110e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="6" y="6" width="1188" height="408" rx="16" fill="#111622" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <rect x="42" y="44" width="44" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="42" y="98" class="s" font-size="27" font-weight="700" fill="#f3efe4">Sitios web y landings</text>
+  <rect x="42" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="144" class="s" font-size="19" font-weight="400" fill="#c3cad6">Rápidos, accesibles y seguros</text>
+  <rect x="42" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="176" class="s" font-size="19" font-weight="400" fill="#c3cad6">Pensados primero para celular</text>
+  <rect x="42" y="201" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="62" y="208" class="s" font-size="19" font-weight="400" fill="#c3cad6">Publicados y listos para usar</text>
+  <text x="42" y="270" class="s" font-size="16" font-weight="400" fill="#8f9ab0">Ejemplos: Templvm, PitLane, MatchPoint</text>
+  <rect x="438" y="44" width="44" height="5" rx="2.5" fill="#8fd0ff"/>
+  <text x="438" y="98" class="s" font-size="27" font-weight="700" fill="#f3efe4">Apps de escritorio</text>
+  <rect x="438" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="144" class="s" font-size="19" font-weight="400" fill="#c3cad6">Java con base de datos</text>
+  <rect x="438" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="176" class="s" font-size="19" font-weight="400" fill="#c3cad6">Formularios que validan</text>
+  <rect x="438" y="201" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="458" y="208" class="s" font-size="19" font-weight="400" fill="#c3cad6">Pruebas automáticas incluidas</text>
+  <text x="438" y="270" class="s" font-size="16" font-weight="400" fill="#8f9ab0">Ejemplos: SanRafa, Talento humano</text>
+  <rect x="834" y="44" width="44" height="5" rx="2.5" fill="#2f55f0"/>
+  <text x="834" y="98" class="s" font-size="27" font-weight="700" fill="#f3efe4">Mejorar tu sitio</text>
+  <rect x="834" y="137" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="144" class="s" font-size="19" font-weight="400" fill="#c3cad6">Más rápido y liviano</text>
+  <rect x="834" y="169" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="176" class="s" font-size="19" font-weight="400" fill="#c3cad6">Usable con teclado y lector</text>
+  <rect x="834" y="201" width="7" height="7" rx="1.5" fill="#2f55f0"/>
+  <text x="854" y="208" class="s" font-size="19" font-weight="400" fill="#c3cad6">Errores y seguridad al día</text>
+  <text x="834" y="270" class="s" font-size="16" font-weight="400" fill="#8f9ab0">Ejemplo: landing-cs, de 2,1 MB a 112 KB</text>
+  <line x1="402" y1="36" x2="402" y2="290" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="798" y1="36" x2="798" y2="290" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <line x1="6" y1="316" x2="1194" y2="316" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <text x="42" y="372" class="s" font-size="20" font-weight="500" fill="#f3efe4">Trabajo de forma remota, desde cualquier lugar. Cuéntame qué necesitas.</text>
+  <rect x="928" y="340" width="232" height="52" rx="26" fill="#2f55f0"/>
+  <text x="960" y="373" class="s" font-size="20" font-weight="700" fill="#f6f3ea">Escríbeme</text>
+  <path d="M1071.2 366 h16 M1081.2 360 l6 6 l-6 6" fill="none" stroke="#f6f3ea" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

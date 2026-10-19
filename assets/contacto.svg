@@ -8,12 +8,12 @@
     
     @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
   </style>
-  <defs><linearGradient id="fc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a45"/><stop offset="1" stop-color="#ff5a2e"/></linearGradient></defs>
-  <rect x="6" y="6" width="1188" height="288" rx="16" fill="url(#fc)" stroke="#ffffff" stroke-opacity="0.08"/>
-  <text x="56" y="112" class="s" font-size="48" font-weight="800" fill="#16110e">¿Tienes un proyecto en mente?</text>
-  <text x="56" y="162" class="s" font-size="21" font-weight="500" fill="#3a1607">Cuéntame qué necesitas. Trabajo de forma remota, desde cualquier lugar.</text>
-  <text x="56" y="236" class="m" font-size="24" font-weight="600" fill="#16110e">kyottondea@gmail.com</text>
-  <rect x="884" y="196" width="260" height="60" rx="30" fill="#16110e"/>
-  <text x="920" y="234" class="s" font-size="22" font-weight="700" fill="#ffd9c9">Escríbeme</text>
-  <path d="M1042.92 227 h16 M1052.92 221 l6 6 l-6 6" fill="none" stroke="#ffd9c9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs><linearGradient id="fc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a63ff"/><stop offset="1" stop-color="#1f3bc9"/></linearGradient></defs>
+  <rect x="6" y="6" width="1188" height="288" rx="16" fill="url(#fc)" stroke="#f3efe4" stroke-opacity="0.08"/>
+  <text x="56" y="112" class="s" font-size="48" font-weight="800" fill="#f6f3ea">¿Tienes un proyecto en mente?</text>
+  <text x="56" y="162" class="s" font-size="21" font-weight="500" fill="#e3e9ff">Cuéntame qué necesitas. Trabajo de forma remota, desde cualquier lugar.</text>
+  <text x="56" y="236" class="m" font-size="24" font-weight="600" fill="#f6f3ea">kyottondea@gmail.com</text>
+  <rect x="884" y="196" width="260" height="60" rx="30" fill="#f3efe4"/>
+  <text x="920" y="234" class="s" font-size="22" font-weight="700" fill="#0e1530">Escríbeme</text>
+  <path d="M1042.92 227 h16 M1052.92 221 l6 6 l-6 6" fill="none" stroke="#0e1530" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
