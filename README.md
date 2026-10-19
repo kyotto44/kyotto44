@@ -2,7 +2,7 @@
 
 <p><a href="#proyectos"><img src="assets/nav-proyectos.svg" alt="Proyectos" width="25%"></a><a href="#servicios"><img src="assets/nav-servicios.svg" alt="Servicios" width="25%"></a><a href="#cómo-trabajo-con-ia"><img src="assets/nav-ia.svg" alt="Trabajo con IA" width="25%"></a><a href="#contacto"><img src="assets/nav-contacto.svg" alt="Contacto" width="25%"></a></p>
 
-Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, en Tunja, y soy Técnico en Sistemas del SENA. Hago sitios web y aplicaciones de escritorio que se publican, se prueban y se pueden mantener. Trabajo de forma remota y con varios agentes de IA en paralelo, revisando todo lo que producen.
+Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, y soy Técnico en Sistemas del SENA. Hago sitios web y aplicaciones de escritorio que se publican, se prueban y se pueden mantener. Trabajo de forma remota y con varios agentes de IA en paralelo, revisando todo lo que producen.
 
 ## Proyectos
 
