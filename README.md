@@ -35,7 +35,7 @@ Cada tarjeta abre el sitio publicado o el código. Todos los repositorios tienen
 
 ## Formación
 
-<img src="assets/formacion.svg" alt="Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja, en curso." width="100%">
+<img src="assets/formacion.svg" alt="Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, en curso." width="100%">
 
 ## Tecnologías
 

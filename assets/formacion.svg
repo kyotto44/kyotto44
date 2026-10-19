@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
   <title id="t">Formación</title>
-  <desc id="d">Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja, en curso.</desc>
+  <desc id="d">Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, en curso.</desc>
   <style>
     .sans { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: "Cascadia Code", "SF Mono", Consolas, "Liberation Mono", monospace; }
@@ -21,7 +21,7 @@
 
   <g>
     <rect x="639" y="1" width="560" height="218" rx="14" fill="#151d33" stroke="#2f55f0" stroke-opacity="0.45"/>
-    <text x="678" y="62" class="mono" font-size="18" fill="#8fb0ff">Universidad Santo Tomás, Tunja</text>
+    <text x="678" y="62" class="mono" font-size="18" fill="#8fb0ff">Universidad Santo Tomás</text>
     <text x="678" y="118" class="sans" font-size="38" font-weight="700" fill="#f3efe4">Ingeniería de Sistemas</text>
     <rect x="678" y="148" width="112" height="34" rx="17" fill="#2f55f0"/>
     <text x="734" y="171" text-anchor="middle" class="sans" font-size="16" font-weight="700" fill="#f6f3ea">En curso</text>
