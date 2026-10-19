@@ -4,10 +4,9 @@
 
 Estudio Ingeniería de Sistemas en la Universidad Santo Tomás y ya tengo mi título de Técnico en Sistemas del SENA. Lo que más me gusta es construir cosas que la gente use de verdad: páginas que abren rápido en cualquier celular y aplicaciones de escritorio que guardan bien la información y no fallan cuando alguien llena mal un formulario.
 
-Nada de lo que vas a ver aquí abajo se quedó guardado en una carpeta. Son ** sitios publicados** que puedes abrir ahora mismo y ** aplicaciones en Java con 94 pruebas automáticas** que comprueban que todo funcione: una maneja pacientes, citas e historias clínicas, y la otra lleva las vacaciones, los permisos y los retiros del personal de una gobernación. Cada proyecto tiene su `CAMBIOS.md`, donde cuento qué arreglé y por qué. Para mí entregar no es solo que se vea bonito: es que funcione y que cualquiera lo pueda entender y mantener después.
+Nada de lo que vas a ver aquí abajo se quedó guardado en una carpeta. Son **sitios publicados** que puedes abrir ahora mismo y **aplicaciones en Java con 94 pruebas automáticas** que comprueban que todo funcione: una maneja pacientes, citas e historias clínicas, y la otra lleva las vacaciones, los permisos y los retiros del personal de una gobernación. Cada proyecto tiene su `CAMBIOS.md`, donde cuento qué arreglé y por qué. Para mí entregar no es solo que se vea bonito: es que funcione y que cualquiera lo pueda entender y mantener después.
 
 ### Por qué trabajar conmigo
-
 
 - **Uso la IA a mi favor, pero con criterio.** Pongo varios agentes de IA a trabajar al mismo tiempo: uno en el código, otro en las pruebas, otro revisando. Yo planeo, reviso cada cambio y decido qué se queda. Así avanzo mucho más rápido sin entregar nada que no haya revisado yo mismo.
 - **Aprendo lo que el proyecto pida.** Ya trabajé con Java, JavaFX, MySQL, SQLite, HTML, CSS, JavaScript, Tailwind y Bootstrap, y si tu proyecto necesita otra herramienta, la aprendo y la aplico.
