@@ -2,7 +2,18 @@
 
 <p><a href="#proyectos"><img src="assets/nav-proyectos.svg" alt="Proyectos" width="25%"></a><a href="#servicios"><img src="assets/nav-servicios.svg" alt="Servicios" width="25%"></a><a href="#cómo-trabajo-con-ia"><img src="assets/nav-ia.svg" alt="Trabajo con IA" width="25%"></a><a href="#contacto"><img src="assets/nav-contacto.svg" alt="Contacto" width="25%"></a></p>
 
-Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, y soy Técnico en Sistemas del SENA. Hago sitios web y aplicaciones de escritorio que se publican, se prueban y se pueden mantener. Trabajo de forma remota y con varios agentes de IA en paralelo, revisando todo lo que producen.
+**Hola, soy Santiago Angarita.** Estudio Ingeniería de Sistemas en la Universidad Santo Tomás y ya tengo mi título de Técnico en Sistemas del SENA. Lo que más me gusta es construir cosas que la gente use de verdad: páginas que abren rápido en cualquier celular y aplicaciones de escritorio que guardan bien la información y no fallan cuando alguien llena mal un formulario.
+
+Nada de lo que vas a ver aquí abajo se quedó guardado en una carpeta. Son **cuatro sitios publicados** que puedes abrir ahora mismo y **dos aplicaciones en Java con 94 pruebas automáticas** que comprueban que todo funcione: una maneja pacientes, citas e historias clínicas, y la otra lleva las vacaciones, los permisos y los retiros del personal de una gobernación. Cada proyecto tiene su `CAMBIOS.md`, donde cuento qué arreglé y por qué. Para mí entregar no es solo que se vea bonito: es que funcione y que cualquiera lo pueda entender y mantener después.
+
+### Por qué trabajar conmigo
+
+- **Me fijo en lo que no se ve, pero se siente.** A PitLane le bajé el peso de 7,1 MB a 0,8 MB para que cargue rápido. Reviso que los colores se lean bien, que todo se pueda usar con teclado y con lector de pantalla, y que los sitios salgan con HTTPS y cabeceras de seguridad bien puestas.
+- **Uso la IA a mi favor, pero con criterio.** Pongo varios agentes de IA a trabajar al mismo tiempo: uno en el código, otro en las pruebas, otro revisando. Yo planeo, reviso cada cambio y decido qué se queda. Así avanzo mucho más rápido sin entregar nada que no haya revisado yo mismo.
+- **Te hablo claro.** Desde el principio te digo qué se puede hacer, cómo lo voy a hacer y qué cambió en cada entrega, sin palabras raras.
+- **Aprendo lo que el proyecto pida.** Ya trabajé con Java, JavaFX, MySQL, SQLite, HTML, CSS, JavaScript, Tailwind y Bootstrap, y si tu proyecto necesita otra herramienta, la aprendo y la aplico.
+
+Trabajo de forma remota, desde cualquier lugar. Si tienes un negocio y necesitas tu página, si ya tienes un sitio y quieres que funcione mejor, o si necesitas una app para organizar la información de tu equipo, [escríbeme](https://mail.google.com/mail/?view=cm&fs=1&to=kyottondea@gmail.com&su=Proyecto%20desde%20GitHub) y lo hablamos. Y si estás buscando talento para tu equipo, abre cualquier repositorio: todo el código está ahí para que lo revises.
 
 ## Proyectos
 
