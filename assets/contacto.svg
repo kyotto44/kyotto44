@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Contacto</title>
+  <desc id="d">¿Tienes un proyecto en mente? Cuéntame qué necesitas. Trabajo de forma remota. kyottondea@gmail.com</desc>
+  <style>
+    .s { font-family: "Segoe UI Variable Display","Segoe UI",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif; } .m { font-family: "Cascadia Code","SF Mono",Consolas,"Liberation Mono",monospace; }
+    .pulso { transform-box: fill-box; transform-origin: center; animation: pulso 2.2s ease-out infinite; }
+    @keyframes pulso { from { transform: scale(1); opacity: 0.7; } to { transform: scale(3); opacity: 0; } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs><linearGradient id="fc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff7a45"/><stop offset="1" stop-color="#ff5a2e"/></linearGradient></defs>
+  <rect x="6" y="6" width="1188" height="288" rx="16" fill="url(#fc)" stroke="#ffffff" stroke-opacity="0.08"/>
+  <text x="56" y="112" class="s" font-size="48" font-weight="800" fill="#16110e">¿Tienes un proyecto en mente?</text>
+  <text x="56" y="162" class="s" font-size="21" font-weight="500" fill="#3a1607">Cuéntame qué necesitas. Trabajo de forma remota, desde cualquier lugar.</text>
+  <text x="56" y="236" class="m" font-size="24" font-weight="600" fill="#16110e">kyottondea@gmail.com</text>
+  <rect x="884" y="196" width="260" height="60" rx="30" fill="#16110e"/>
+  <text x="920" y="234" class="s" font-size="22" font-weight="700" fill="#ffd9c9">Escríbeme</text>
+  <path d="M1042.92 227 h16 M1052.92 221 l6 6 l-6 6" fill="none" stroke="#ffd9c9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

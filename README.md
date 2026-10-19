@@ -1,174 +1,30 @@
 <img src="assets/banner.svg" alt="Santiago Angarita. Estudiante de Ingeniería de Sistemas y Técnico en Sistemas del SENA, junto a capturas de sus proyectos Templvm, MatchPoint y SanRafa." width="100%">
 
-Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, en Tunja, y soy Técnico en Sistemas del SENA. Me gusta construir software que se pueda usar de verdad: aplicaciones de escritorio en Java con su base de datos y sus pruebas, y sitios web rápidos, accesibles y publicados. También trabajo con agentes de IA, incluso varios en paralelo, y reviso todo lo que producen antes de aceptarlo.
+<p><a href="#proyectos"><img src="assets/nav-proyectos.svg" alt="Proyectos" width="25%"></a><a href="#servicios"><img src="assets/nav-servicios.svg" alt="Servicios" width="25%"></a><a href="#cómo-trabajo-con-ia"><img src="assets/nav-ia.svg" alt="Trabajo con IA" width="25%"></a><a href="#contacto"><img src="assets/nav-contacto.svg" alt="Contacto" width="25%"></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/cifras-oscuro.svg">
-  <img src="assets/cifras-claro.svg" alt="6 proyectos publicados. 94 pruebas automáticas. 95 % menos peso en imágenes en landing-cs, de 2,1 MB a 112 KB. 4 sitios con CSP y HTTPS." width="100%">
-</picture>
+Estudio Ingeniería de Sistemas en la Universidad Santo Tomás, en Tunja, y soy Técnico en Sistemas del SENA. Hago sitios web y aplicaciones de escritorio que se publican, se prueban y se pueden mantener. Trabajo de forma remota y con varios agentes de IA en paralelo, revisando todo lo que producen.
 
-## Sitios web
+## Proyectos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://templvm-kyotto44.netlify.app"><img src="https://github.com/kyotto44/templvm/raw/main/docs/captura-escritorio.webp" alt="Portada de Templvm: caballeros templarios de fondo y el título TEMPLVM" width="100%"></a>
-      <h3>Templvm</h3>
-      Historia de la Orden del Temple, seis castillos con su foto y una tienda con carrito de compras.
-      <br><br>
-      <code>Bootstrap 5</code> <code>JavaScript</code>
-      <br><br>
-      <a href="https://templvm-kyotto44.netlify.app"><b>Ver sitio</b></a> &nbsp;&nbsp; <a href="https://github.com/kyotto44/templvm">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://pitlane-kyotto44.netlify.app"><img src="https://github.com/kyotto44/pitlane/raw/main/docs/captura-escritorio.webp" alt="Portada de PitLane: barra lateral con las secciones y una foto del paddock de Fórmula 1" width="100%"></a>
-      <h3>PitLane</h3>
-      Portal de Fórmula 1 con pilotos, clasificación, circuitos, club de fans y preferencias que se guardan.
-      <br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br><br>
-      <a href="https://pitlane-kyotto44.netlify.app"><b>Ver sitio</b></a> &nbsp;&nbsp; <a href="https://github.com/kyotto44/pitlane">Código</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://matchpoint-kyotto44.netlify.app"><img src="https://github.com/kyotto44/matchpoint/raw/main/docs/captura-escritorio.webp" alt="Portada de MatchPoint: foto de un estadio con el partido destacado a la derecha" width="100%"></a>
-      <h3>MatchPoint</h3>
-      Resultados, calendario, equipos y tabla de posiciones de cuatro ligas europeas, con filtros por liga.
-      <br><br>
-      <code>Tailwind CSS</code> <code>JavaScript</code>
-      <br><br>
-      <a href="https://matchpoint-kyotto44.netlify.app"><b>Ver sitio</b></a> &nbsp;&nbsp; <a href="https://github.com/kyotto44/matchpoint">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://landing-cs-kyotto44.netlify.app"><img src="https://github.com/kyotto44/landing-cs/raw/main/docs/captura-escritorio.webp" alt="Primera pantalla de la landing: silueta de un jugador sobre fondo amarillo y azul" width="100%"></a>
-      <h3>Táctica y ejecución</h3>
-      Landing que explica cómo se construye software con la metáfora de una ronda de Counter-Strike.
-      <br><br>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      <br><br>
-      <a href="https://landing-cs-kyotto44.netlify.app"><b>Ver sitio</b></a> &nbsp;&nbsp; <a href="https://github.com/kyotto44/landing-cs">Código</a>
-    </td>
-  </tr>
-</table>
+<p><a href="https://templvm-kyotto44.netlify.app"><img src="assets/p-templvm.svg" alt="Templvm, sitio en línea: historia de la Orden del Temple, seis castillos y una tienda con carrito. Bootstrap 5 y JavaScript." width="50%"></a><a href="https://github.com/kyotto44?tab=repositories"><img src="assets/p-prueba.svg" alt="Probado y publicado: 94 pruebas automáticas, 4 sitios con CSP y HTTPS, cada cambio documentado. Ver repositorios." width="25%"></a><a href="mailto:kyottondea@gmail.com?subject=Proyecto%20desde%20GitHub"><img src="assets/p-contacto.svg" alt="¿Tienes un proyecto? Escríbeme a kyottondea@gmail.com. Trabajo de forma remota." width="25%"></a><a href="https://pitlane-kyotto44.netlify.app"><img src="assets/p-pitlane.svg" alt="PitLane, sitio en línea: portal de Fórmula 1 con club de fans." width="33.33%"></a><a href="https://matchpoint-kyotto44.netlify.app"><img src="assets/p-matchpoint.svg" alt="MatchPoint, sitio en línea: resultados de cuatro ligas europeas." width="33.33%"></a><a href="https://landing-cs-kyotto44.netlify.app"><img src="assets/p-landing.svg" alt="Táctica y ejecución, sitio en línea: cómo se hace software, contado como una ronda de Counter-Strike." width="33.33%"></a><a href="https://github.com/kyotto44/sanrafa-app"><img src="assets/p-sanrafa.svg" alt="SanRafa, app de escritorio: pacientes, citas e historias clínicas con validaciones. 46 pruebas, JavaFX y SQLite. Ver código." width="50%"></a><a href="https://github.com/kyotto44/dashboard-gobernacion"><img src="assets/p-dashboard.svg" alt="Talento humano, app de escritorio: vacaciones, permisos y retiros de una gobernación. 48 pruebas, MySQL o modo demo. Ver código." width="50%"></a></p>
 
-## Aplicaciones de escritorio
+Cada tarjeta abre el sitio publicado o el código. Todos los repositorios tienen un `CAMBIOS.md` con lo que se corrigió y por qué.
 
-<a href="https://github.com/kyotto44/sanrafa-app"><img src="https://github.com/kyotto44/sanrafa-app/raw/main/docs/captura-dashboard.png" alt="SanRafa: indicadores de citas, agenda del día y gráfico de atenciones por especialidad" width="100%"></a>
+## Servicios
 
-### SanRafa
-
-Registro de pacientes, agenda de citas por médico e historias clínicas para un hospital, con validaciones según la edad del paciente. La base de datos se crea sola la primera vez que se abre. Proyecto académico.
-
-<code>Java</code> <code>JavaFX</code> <code>SQLite</code> <code>JUnit</code> &nbsp; 46 pruebas automáticas &nbsp;&nbsp; <a href="https://github.com/kyotto44/sanrafa-app"><b>Ver código</b></a>
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <a href="https://github.com/kyotto44/dashboard-gobernacion"><img src="https://github.com/kyotto44/dashboard-gobernacion/raw/main/docs/captura-principal.png" alt="Dashboard de gobernación: indicadores de vacaciones y permisos, gráfico de retiros y formulario de empleados" width="100%"></a>
-    </td>
-    <td width="42%" valign="top">
-      <h3>Dashboard de talento humano</h3>
-      Muestra en una sola pantalla quién está de vacaciones o en permiso hoy, quién lleva más de un año sin tomarlas y cuántas personas se retiran cada mes.
-      <br><br>
-      Tiene modo demostración para probarlo sin instalar MySQL.
-      <br><br>
-      <code>Java</code> <code>JavaFX</code> <code>MySQL</code> <code>JDBI</code> <code>JUnit</code>
-      <br><br>
-      48 pruebas automáticas
-      <br><br>
-      <a href="https://github.com/kyotto44/dashboard-gobernacion"><b>Ver código</b></a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:kyottondea@gmail.com?subject=Proyecto%20desde%20GitHub"><img src="assets/servicios.svg" alt="Sitios web y landings: rápidos, accesibles y seguros, pensados primero para celular, publicados y listos para usar. Apps de escritorio: Java con base de datos, formularios que validan y pruebas automáticas. Mejorar tu sitio: más rápido y liviano, usable con teclado y lector, errores y seguridad al día. Trabajo de forma remota. Escríbeme." width="100%"></a>
 
 ## Lo que sé hacer
 
-Todo esto se puede ver en el código y en los archivos `CAMBIOS.md` de cada proyecto.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Java y escritorio</h3>
-      <ul>
-        <li>Interfaces con JavaFX, FXML y hojas de estilo propias que se adaptan al tamaño de la ventana.</li>
-        <li>Diseño en capas: la interfaz <code>DataSource</code> tiene una versión MySQL y otra en memoria, y las dos pasan la misma batería de pruebas.</li>
-        <li>Modelos inmutables con <code>record</code>, fechas con <code>LocalDate</code> y validaciones separadas de las pantallas.</li>
-        <li>94 pruebas con JUnit 5 y proyectos Gradle que descargan sus dependencias solos.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Bases de datos</h3>
-      <ul>
-        <li>MySQL con JDBI y SQLite con JDBC, siempre con <code>PreparedStatement</code>.</li>
-        <li>Reglas en la propia base: llaves foráneas, borrado en cascada, valores únicos y restricciones de estados y fechas.</li>
-        <li>Transacciones para que un borrado no deje datos a medias, y una consulta agrupada en lugar de doce.</li>
-        <li>Scripts de esquema, datos de ejemplo y migración.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Desarrollo web</h3>
-      <ul>
-        <li>HTML semántico, CSS con variables, Grid y diseño responsive, y JavaScript sin frameworks.</li>
-        <li>Tailwind CSS compilado para producción y Bootstrap personalizado con sus propias variables.</li>
-        <li>Interacciones con <code>IntersectionObserver</code>, Web Animations API y <code>localStorage</code> protegido.</li>
-        <li>Mejora progresiva: sin JavaScript el contenido se sigue viendo.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Accesibilidad</h3>
-      <ul>
-        <li>Contraste WCAG AA revisado color por color.</li>
-        <li>Navegación con teclado: foco visible, menús que se cierran con Escape y ventanas que no dejan escapar el foco.</li>
-        <li>Errores de formulario debajo de cada campo, atributos ARIA y respeto por la opción de reducir movimiento.</li>
-        <li>Botones y enlaces de al menos 44 px en celular.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Rendimiento y recursos</h3>
-      <ul>
-        <li>Imágenes en WebP con <code>srcset</code> y carga diferida. En PitLane pasaron de 7,1 MB a 0,8 MB.</li>
-        <li><code>width</code> y <code>height</code> en cada imagen para que la página no salte al cargar.</li>
-        <li>Dependencias sin uso retiradas y un SDK de 112 MB sacado del repositorio.</li>
-        <li>Tailwind compilado en lugar del CDN que generaba el CSS en cada visita.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Seguridad y publicación</h3>
-      <ul>
-        <li>Cabeceras de seguridad en Netlify: CSP, HTTPS obligatorio, <code>X-Frame-Options</code> y <code>nosniff</code>.</li>
-        <li>Integridad (SRI) en los archivos que llegan desde un CDN.</li>
-        <li>Contraseñas fuera del código, con variables de entorno y <code>.gitignore</code>, y sin datos personales reales en los repositorios.</li>
-        <li>Git y GitHub para el control de versiones, y Netlify para publicar.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="assets/conocimientos.svg" alt="Java y escritorio: JavaFX con FXML y hojas de estilo, capas con MySQL o datos en memoria, records, LocalDate y JUnit 5. Bases de datos: MySQL con JDBI, SQLite con JDBC, consultas con PreparedStatement, llaves foráneas y transacciones. Desarrollo web: HTML semántico, CSS moderno, JavaScript sin frameworks, Tailwind y Bootstrap. Accesibilidad: contraste WCAG AA, uso con teclado, ARIA y movimiento reducido. Rendimiento: imágenes WebP con srcset, PitLane de 7,1 MB a 0,8 MB, dependencias sin uso retiradas. Seguridad: cabeceras CSP y HTTPS, contraseñas fuera del código, sin datos reales en los repositorios." width="100%">
 
 ## Cómo trabajo con IA
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ia-oscuro.svg">
-  <img src="assets/ia-claro.svg" alt="Planifico y divido el trabajo. Varios agentes avanzan en paralelo: código, pruebas y revisión. Al final verifico, pruebo y decido qué cambio se queda." width="100%">
-</picture>
-
-Sé coordinar varios agentes de IA al mismo tiempo, cada uno en una tarea separada y sin que se pisen entre sí. Para mí, usar bien la IA significa:
-
-- **Dar buen contexto.** Explico qué se busca, qué se puede tocar y cómo se va a comprobar el resultado.
-- **Dividir el trabajo.** Reparto tareas independientes para que los agentes avancen en paralelo.
-- **Verificar todo.** Pruebo, leo y entiendo cada cambio antes de aceptarlo. Si no lo entiendo, no entra.
-- **Cuidar lo que se publica.** Ni credenciales, ni datos personales, ni código sin revisar en un repositorio público.
+<img src="assets/ia.svg" alt="Planifico y divido el trabajo; varios agentes de IA avanzan en paralelo con código, pruebas y revisión; al final verifico y decido qué cambio se queda. Principios: dar contexto, dividir el trabajo, verificar todo y cuidar lo publicado." width="100%">
 
 ## Formación
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/formacion-oscuro.svg">
-  <img src="assets/formacion-claro.svg" alt="Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja, en curso." width="100%">
-</picture>
+<img src="assets/formacion.svg" alt="Técnico en Sistemas del SENA, completado. Ingeniería de Sistemas en la Universidad Santo Tomás, Tunja, en curso." width="100%">
 
 ## Tecnologías
 
@@ -189,4 +45,8 @@ Sé coordinar varios agentes de IA al mismo tiempo, cada uno en una tarea separa
   <img src="https://cdn.simpleicons.org/intellijidea/1f2328/e6edf3" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="36">
 </p>
 
-Cada proyecto tiene su README con capturas, cómo ejecutarlo y qué cambió desde la entrega original.
+## Contacto
+
+<a href="mailto:kyottondea@gmail.com?subject=Proyecto%20desde%20GitHub"><img src="assets/contacto.svg" alt="¿Tienes un proyecto en mente? Cuéntame qué necesitas. Trabajo de forma remota. Escríbeme a kyottondea@gmail.com." width="100%"></a>
+
+Escríbeme a [kyottondea@gmail.com](mailto:kyottondea@gmail.com?subject=Proyecto%20desde%20GitHub).

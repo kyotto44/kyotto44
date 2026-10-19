@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="76" viewBox="0 0 300 76" role="img" aria-labelledby="t d">
+  <title id="t">Servicios</title>
+  <desc id="d">Ir a la sección Servicios</desc>
+  <style>
+    .s { font-family: "Segoe UI Variable Display","Segoe UI",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif; } .m { font-family: "Cascadia Code","SF Mono",Consolas,"Liberation Mono",monospace; }
+    .pulso { transform-box: fill-box; transform-origin: center; animation: pulso 2.2s ease-out infinite; }
+    @keyframes pulso { from { transform: scale(1); opacity: 0.7; } to { transform: scale(3); opacity: 0; } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect x="6" y="6" width="288" height="64" rx="32" fill="#14171c" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="80.53999999999999" y="46" class="s" font-size="22" font-weight="600" fill="#f2f4f7">Servicios</text>
+  <path d="M205.45999999999998 32 v13 M199.45999999999998 39 l6 6 l6 -6" fill="none" stroke="#ff8a63" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
