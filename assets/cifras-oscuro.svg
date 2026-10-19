@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="t d">
+  <title id="t">Cifras del portafolio</title>
+  <desc id="d">6 proyectos publicados. 94 pruebas automáticas. 95 por ciento menos peso en imágenes en landing-cs, de 2,1 MB a 112 KB. 4 sitios con CSP y HTTPS.</desc>
+  <style>
+    .sans { font-family: "Segoe UI Variable Display", "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .num { font-size: 52px; font-weight: 800; letter-spacing: -1.5px; fill: #ff6a3d; }
+    .txt { font-size: 17px; fill: #9aa4b1; }
+    .sub { font-size: 14px; fill: #8b949e; }
+    .caja { fill: #14171c; stroke: #ffffff; stroke-opacity: 0.08; }
+  </style>
+  <rect class="caja" x="1" y="1" width="285" height="148" rx="14"/>
+  <rect class="caja" x="305" y="1" width="285" height="148" rx="14"/>
+  <rect class="caja" x="609" y="1" width="285" height="148" rx="14"/>
+  <rect class="caja" x="913" y="1" width="285" height="148" rx="14"/>
+
+  <text x="32" y="78" class="sans num">6</text>
+  <text x="32" y="114" class="sans txt">proyectos publicados</text>
+
+  <text x="336" y="78" class="sans num">94</text>
+  <text x="336" y="114" class="sans txt">pruebas automáticas</text>
+
+  <text x="640" y="78" class="sans num">95 %</text>
+  <text x="640" y="110" class="sans txt">menos peso en imágenes</text>
+  <text x="640" y="132" class="sans sub">landing-cs: de 2,1 MB a 112 KB</text>
+
+  <text x="944" y="78" class="sans num">4</text>
+  <text x="944" y="114" class="sans txt">sitios con CSP y HTTPS</text>
+</svg>

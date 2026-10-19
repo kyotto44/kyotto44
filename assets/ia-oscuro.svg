@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Cómo trabajo con agentes de IA</title>
+  <desc id="d">Planifico y divido el trabajo. Varios agentes avanzan en paralelo, cada uno en su tarea: código, pruebas y revisión. Al final verifico, pruebo y decido qué se queda.</desc>
+  <style>
+    .sans { font-family: "Segoe UI Variable Display", "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    .mono { font-family: "Cascadia Code", "SF Mono", Consolas, "Liberation Mono", monospace; }
+    .caja { fill: #14171c; stroke: #ffffff; stroke-opacity: 0.08; }
+    .agente { fill: #1a1512; stroke: #ff6a3d; stroke-opacity: 0.45; }
+    .titulo { font-size: 30px; font-weight: 700; fill: #f2f4f7; }
+    .texto { font-size: 16px; fill: #9aa4b1; }
+    .etiqueta { font-size: 18px; font-weight: 600; fill: #f2f4f7; }
+    .tipo { font-size: 15px; fill: #ff8a63; }
+    .flujo { fill: none; stroke: #ff6a3d; stroke-width: 2; stroke-opacity: 0.7; stroke-dasharray: 6 8; animation: fluye 1.2s linear infinite; }
+    @keyframes fluye { to { stroke-dashoffset: -28; } }
+    @media (prefers-reduced-motion: reduce) { .flujo { animation: none; } }
+  </style>
+
+  <path class="flujo" d="M281 150 C 330 150, 330 60, 380 60"/>
+  <path class="flujo" d="M281 150 L 380 150"/>
+  <path class="flujo" d="M281 150 C 330 150, 330 240, 380 240"/>
+  <path class="flujo" d="M820 60 C 870 60, 870 150, 919 150"/>
+  <path class="flujo" d="M820 150 L 919 150"/>
+  <path class="flujo" d="M820 240 C 870 240, 870 150, 919 150"/>
+
+  <rect class="caja" x="1" y="60" width="280" height="180" rx="14"/>
+  <text x="32" y="128" class="sans titulo">Planifico</text>
+  <text x="32" y="164" class="sans texto">Divido el trabajo y doy</text>
+  <text x="32" y="188" class="sans texto">contexto y reglas claras.</text>
+
+  <rect class="agente" x="380" y="32" width="440" height="56" rx="14"/>
+  <text x="408" y="67" class="sans etiqueta">Agente</text>
+  <text x="792" y="67" text-anchor="end" class="mono tipo">código</text>
+
+  <rect class="agente" x="380" y="122" width="440" height="56" rx="14"/>
+  <text x="408" y="157" class="sans etiqueta">Agente</text>
+  <text x="792" y="157" text-anchor="end" class="mono tipo">pruebas</text>
+
+  <rect class="agente" x="380" y="212" width="440" height="56" rx="14"/>
+  <text x="408" y="247" class="sans etiqueta">Agente</text>
+  <text x="792" y="247" text-anchor="end" class="mono tipo">revisión</text>
+
+  <rect class="caja" x="919" y="60" width="280" height="180" rx="14"/>
+  <text x="950" y="128" class="sans titulo">Verifico</text>
+  <text x="950" y="164" class="sans texto">Pruebo, reviso y decido</text>
+  <text x="950" y="188" class="sans texto">qué cambio se queda.</text>
+</svg>
