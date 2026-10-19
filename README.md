@@ -8,7 +8,7 @@ Nada de lo que vas a ver aquí abajo se quedó guardado en una carpeta. Son ** s
 
 ### Por qué trabajar conmigo
 
-- **Me fijo en lo que no se ve, pero se siente.** . Reviso que los colores se lean bien, que todo se pueda usar con teclado y con lector de pantalla, y que los sitios salgan con HTTPS y cabeceras de seguridad bien puestas.
+
 - **Uso la IA a mi favor, pero con criterio.** Pongo varios agentes de IA a trabajar al mismo tiempo: uno en el código, otro en las pruebas, otro revisando. Yo planeo, reviso cada cambio y decido qué se queda. Así avanzo mucho más rápido sin entregar nada que no haya revisado yo mismo.
 - **Aprendo lo que el proyecto pida.** Ya trabajé con Java, JavaFX, MySQL, SQLite, HTML, CSS, JavaScript, Tailwind y Bootstrap, y si tu proyecto necesita otra herramienta, la aprendo y la aplico.
 
