@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="380" viewBox="0 0 300 380" role="img" aria-labelledby="t d">
   <title id="t">Probado y publicado</title>
-  <desc id="d">94 pruebas automáticas, 4 sitios con CSP y HTTPS, cada cambio documentado. Enlace a los repositorios.</desc>
+  <desc id="d">107 pruebas automáticas, 5 sitios con CSP y HTTPS, cada cambio documentado. Enlace a los repositorios.</desc>
   <style>
     .s { font-family: "Segoe UI Variable Display","Segoe UI",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif; } .m { font-family: "Cascadia Code","SF Mono",Consolas,"Liberation Mono",monospace; }
     .pulso { transform-box: fill-box; transform-origin: center; animation: pulso 2.2s ease-out infinite; }
@@ -13,11 +13,11 @@
   <text x="30" y="100" class="s" font-size="28" font-weight="700" fill="#f3efe4">publicado</text>
   <circle cx="43" cy="158" r="13" fill="#2f55f0" fill-opacity="0.14" stroke="#2f55f0" stroke-opacity="0.6"/>
   <path d="M37 158 l4 4.5 l8 -9" fill="none" stroke="#8fb0ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="68" y="155" class="s" font-size="20" font-weight="600" fill="#f3efe4">94 pruebas</text>
+  <text x="68" y="155" class="s" font-size="20" font-weight="600" fill="#f3efe4">107 pruebas</text>
   <text x="68" y="180" class="s" font-size="18" font-weight="400" fill="#c3cad6">automáticas</text>
   <circle cx="43" cy="224" r="13" fill="#2f55f0" fill-opacity="0.14" stroke="#2f55f0" stroke-opacity="0.6"/>
   <path d="M37 224 l4 4.5 l8 -9" fill="none" stroke="#8fb0ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="68" y="221" class="s" font-size="20" font-weight="600" fill="#f3efe4">4 sitios con</text>
+  <text x="68" y="221" class="s" font-size="20" font-weight="600" fill="#f3efe4">5 sitios con</text>
   <text x="68" y="246" class="s" font-size="18" font-weight="400" fill="#c3cad6">CSP y HTTPS</text>
   <circle cx="43" cy="290" r="13" fill="#2f55f0" fill-opacity="0.14" stroke="#2f55f0" stroke-opacity="0.6"/>
   <path d="M37 290 l4 4.5 l8 -9" fill="none" stroke="#8fb0ff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
