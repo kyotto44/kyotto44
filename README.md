@@ -2,7 +2,7 @@
 
 <p><a href="#proyectos"><img src="assets/nav-proyectos.svg" alt="Proyectos" width="25%"></a><a href="#servicios"><img src="assets/nav-servicios.svg" alt="Servicios" width="25%"></a><a href="#cómo-trabajo-con-ia"><img src="assets/nav-ia.svg" alt="Trabajo con IA" width="25%"></a><a href="#contacto"><img src="assets/nav-contacto.svg" alt="Contacto" width="25%"></a></p>
 
-**Mi portafolio:** [santiago-angarita.netlify.app](https://santiago-angarita.netlify.app). Ahí están todos mis proyectos, también en inglés.
+**Mi portafolio:** [santiago-angarita.netlify.app](https://santiago-angarita.netlify.app). Ahí están todos mis proyectos, también en inglés ([ver su código](https://github.com/kyotto44/portafolio)).
 
 Estudio Ingeniería de Sistemas en la Universidad Santo Tomás y ya tengo mi título de Técnico en Sistemas del SENA. Lo que más me gusta es construir cosas que la gente use de verdad: páginas que abren rápido en cualquier celular y aplicaciones de escritorio que guardan bien la información y no fallan cuando alguien llena mal un formulario.
 
