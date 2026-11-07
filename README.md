@@ -2,6 +2,8 @@
 
 <p><a href="#proyectos"><img src="assets/nav-proyectos.svg" alt="Proyectos" width="25%"></a><a href="#servicios"><img src="assets/nav-servicios.svg" alt="Servicios" width="25%"></a><a href="#cómo-trabajo-con-ia"><img src="assets/nav-ia.svg" alt="Trabajo con IA" width="25%"></a><a href="#contacto"><img src="assets/nav-contacto.svg" alt="Contacto" width="25%"></a></p>
 
+**Mi portafolio:** [santiago-angarita.netlify.app](https://santiago-angarita.netlify.app). Ahí están todos mis proyectos, también en inglés.
+
 Estudio Ingeniería de Sistemas en la Universidad Santo Tomás y ya tengo mi título de Técnico en Sistemas del SENA. Lo que más me gusta es construir cosas que la gente use de verdad: páginas que abren rápido en cualquier celular y aplicaciones de escritorio que guardan bien la información y no fallan cuando alguien llena mal un formulario.
 
 Nada de lo que vas a ver aquí abajo se quedó guardado en una carpeta. Son **sitios publicados** que puedes abrir ahora mismo y **aplicaciones en Java con 94 pruebas automáticas** que comprueban que todo funcione: una maneja pacientes, citas e historias clínicas, y la otra lleva las vacaciones, los permisos y los retiros del personal de una gobernación. Cada proyecto tiene su `CAMBIOS.md`, donde cuento qué arreglé y por qué. Para mí entregar no es solo que se vea bonito: es que funcione y que cualquiera lo pueda entender y mantener después.
@@ -58,5 +60,7 @@ Cada tarjeta abre el sitio publicado o el código.
 ## Contacto
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kyottondea@gmail.com&amp;su=Proyecto%20desde%20GitHub"><img src="assets/contacto.svg" alt="¿Tienes un proyecto en mente? Cuéntame qué necesitas. Trabajo de forma remota. Escríbeme a kyottondea@gmail.com." width="100%"></a>
+
+Portafolio: **[santiago-angarita.netlify.app](https://santiago-angarita.netlify.app)**
 
 Escríbeme a **kyottondea@gmail.com**: [abrir en Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=kyottondea@gmail.com&su=Proyecto%20desde%20GitHub) o [usar mi app de correo](mailto:kyottondea@gmail.com?subject=Proyecto%20desde%20GitHub).
